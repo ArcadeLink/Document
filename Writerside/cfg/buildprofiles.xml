@@ -3,10 +3,10 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables/>
-    <build-profile instance="hi">
+    <build-profile instance="doc">
         <variables>
-            <offline-docs>false</offline-docs>
             <noindex-content>true</noindex-content>
+            <offline-docs>false</offline-docs>
         </variables>
     </build-profile>
 
