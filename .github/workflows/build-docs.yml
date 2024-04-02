@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'ArcadeLink/doc'
+  INSTANCE: 'Writerside/doc'
   ARTIFACT: 'webHelpDOC2-all.zip'
   DOCKER_VERSION: '233.14938'
 
