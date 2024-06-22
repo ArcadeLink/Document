@@ -13,4 +13,6 @@
     </toc-element>
     <toc-element topic="UseArcadeLink.md"/>
     <toc-element topic="Contact.md"/>
+    <toc-element topic="Serial.md"/>
+    <toc-element topic="Console.md"/>
 </instance-profile>
