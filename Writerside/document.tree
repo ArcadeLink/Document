@@ -8,11 +8,12 @@
 
     <toc-element topic="Overview.md">
         <toc-element topic="UserTutorial.md"/>
-        <toc-element topic="Starter.md"/>
         <toc-element topic="Contribute.md"/>
     </toc-element>
-    <toc-element topic="UseArcadeLink.md"/>
-    <toc-element topic="Contact.md"/>
-    <toc-element topic="Serial.md"/>
-    <toc-element topic="Console.md"/>
+    <toc-element topic="Starter.md">
+        <toc-element topic="UseArcadeLink.md"/>
+        <toc-element topic="Contact.md"/>
+        <toc-element topic="Serial.md"/>
+        <toc-element topic="Console.md"/>
+    </toc-element>
 </instance-profile>
